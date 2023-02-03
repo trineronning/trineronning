@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trineronning
 - 👀 I’m mostly interested in learning new features in Salesforce 
-- 🌱 I’m currently learning a lot in Git, and in VSC and also GitHub Desktop
+- 🌱 I’m currently learning a lot in Git and VSC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: just ping me in Git, fun to be pinged in here too  :)
 
